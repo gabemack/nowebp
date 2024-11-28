@@ -1,2 +1,3 @@
 # fast image converter
-simple, local image converter for avif & webp formats. deployed on cloudflare pages.
+- Simple, local image converter for AVIF & WebP formats. Deployed on Cloudflare Pages.
+- Available at https://nowebp.gabemack.net
